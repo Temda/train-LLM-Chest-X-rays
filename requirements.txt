@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+Pillow
+tqdm
+
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
